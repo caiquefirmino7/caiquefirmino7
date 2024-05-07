@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Caíque</h1>
+<h1 align="center">Hello! 👋, I'm Caíque</h1>
 <h3 align="center">A passionate Android developer from Brasil</h3>
 
 - 🌱 I’m currently learning **Android development**
